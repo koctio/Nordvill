@@ -1,4 +1,44 @@
 #slider-images-in-top{
     height: 380px;
-    width: 100%;
+    background: url('/images/Mask_Group.jpg')no-repeat center center;
+}
+.ccc{
+    max-width:860px;
+}
+.brand-logo{
+    font-family: Saira SemiCondensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    align-items: center;
+    margin-left: 2.31%;
+}
+#nav-mobile li a{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.oranges{
+    color:#ff4242;
+}
+
+h1.main-h, h2.main-h{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    margin: 25px auto;
+    text-align: center;
+}
+h2.contact{
+    margin: 70px auto 30px;
+}
+.contact-text{
+    line-height: 13px;
+    margin-bottom: 50px;
+}
+.footer{
+    text-transform: uppercase;
+    height: 86px;
+    padding:10px;
 }
